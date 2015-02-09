@@ -18,4 +18,4 @@ Usage
         cout << i << endl;
     </code>
 
-or something like that. It can then interpret/run the code in-browser (or on server, given that only server-served code, non-edited, can be run). Security issues, of course, are rampant.
+or something like that. It will format it nicely, and have a "run" button below it, with which it can then interpret/run the code in-browser (or on server, given that only server-served code, non-edited, can be run). Security issues, of course, are rampant.

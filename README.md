@@ -12,5 +12,10 @@ Usage
       <style></style>
       <script></script>
     </code>
+    
+    <code code-lang = "c++11" template = "std-main">
+      for(int i = 0; i < 10; i++)
+        cout << i << endl;
+    </code>
 
-or something like that.
+or something like that. It can then interpret/run the code in-browser (or on server, given that only server-served code, non-edited, can be run). Security issues, of course, are rampant.
